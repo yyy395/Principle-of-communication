@@ -1,0 +1,7 @@
+Task0.m:Run this code to do the task0. This code is uesd to plot the graph of SER versus Es/N0 of the minimum distance detector. The range of Es/N0 is 9 to 17 and the stride is 2. Just click the running button to run the code.
+
+Task1.m:Run this code to do the task1. This code is uesd to plot the decision regions of the minimum distance detector and the optimal detector. Comment out the line 23 and click the running button to run the code, which can obtain the decision regions of the optimal detector. Comment out the line 24 and click the running button to run the code, which can obtain the decision regions of the  minimum distance detector.
+
+Task2.m:Run this code to do the task2. This code is uesd to plot the simulation results, the standard union upper bound and the nearest neighbor’s union upper bound as a graph of SER versus Es/N0 in dB of the optimal detector. The range of Es/N0 is 5 to 17 and the stride is 2. Just click the running button to run the code.
+
+Task3.m:Run this code to do the task3. This code is uesd to plot the simulation results, the union upper bound for both gray code labeling scheme and random labeling scheme as a graph of BER versus Es/N0 in dB. The range of Es/N0 is 5 to 17 and the stride is 2. Just click the running button to run the code.
